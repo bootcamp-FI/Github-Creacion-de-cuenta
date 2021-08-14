@@ -13,7 +13,7 @@
     * Nuestro `Username` es unico!!! y es la forma como nos conectaremos con los demas usuarios de `Github`, Procura que sea simple y profesional. 
     * Puede llevar tu nombre y apellido o partes de este.
     * Ejemplo: `BryanCPineda`.
-6. Decidimos si queremos recivir informacion sobre anuncios `(pueden elegir si (y) o no (n))`.
+6. Decidimos si queremos recibir informacion sobre anuncios `(pueden elegir si (y) o no (n))`.
 7. verificamos nuestra humanidad :alien:.
 8. Y por ultimo damos click en `Create account`.
 9. Nos deberia llegar un Correo electronico con un codigo para validar el mismo.
@@ -27,10 +27,10 @@
 14. Puedes ir a tu perfil y editarlo! 
 ![Creacion cuenta de Github 2](./img/github/creacion_cuenta_github_2.JPG)
 ![Creacion cuenta de Github 3](./img/github/creacion_cuenta_github_3.JPG)
-15. Preciona `Edit Profile`.
+15. Presiona `Edit Profile`.
     * Escribe tu nombre Completo para reconocerte.
     * Puedes escribir una pequeña Bio sobre quien eres, tus intereses, asi los demas sabran algo sobre ti!. 
-16. Si precionas en la imagen que te brinda `Github` por defecto, puedes ingresar a mas opcciones para editar tu perfil! 
+16. Si presionas en la imagen que te brinda `Github` por defecto, puedes ingresar a mas opcciones para editar tu perfil! 
     * Recuerda subir una imagen tuya para que los demas puedan reconocerte! 
 
 ### SI LLEGASTE HASTA AQUI, FELICIDADES!!! YA TIENES UNA CUENTA DE GITHUB :smile:
